@@ -4,7 +4,7 @@
 
 COMMENT ENDS --> 
 
-# Removing Text For Date
+# Removing Text For Date Script
 
 A simple Python script that takes a given (in the script) folder path. <br>
 Inside this folder, the script renames every single file in it by removing the text in front of it until it hits a number. 
@@ -46,4 +46,5 @@ directory_path = r"C:\Users\Norman Whittlecliff\Pictures\Phone Storage\camera"  
 ## Warning
 
 This script DOES NOT have safety features. Once it chnages the file's name, it's done. 
+
 
