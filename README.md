@@ -35,7 +35,7 @@ directory_path = r"C:\Users\Norman Whittlecliff\Pictures\Phone Storage\camera"  
 
 ## Information
 - **Project ID**: 250611
-- **Creator**: Norman Whittlecliff (Norman Santos)
+- **Creator**: Norman (normanwhittlecliff)
 - **Date of Creation**: June 11, 2025
 - **Language**: Python
 
@@ -46,5 +46,6 @@ directory_path = r"C:\Users\Norman Whittlecliff\Pictures\Phone Storage\camera"  
 ## Warning
 
 This script DOES NOT have safety features. Once it chnages the file's name, it's done. 
+
 
 
