@@ -43,9 +43,10 @@ directory_path = r"C:\Users\Norman Whittlecliff\Pictures\Phone Storage\camera"  
 
 - **Python 3**: I assume you already have it in your computer, but yeah, this one is needed to run the script.
 
-## Warning
+## ! Warnings !
 
-This script DOES NOT have safety features. Once it chnages the file's name, it's done. 
+- This script DOES NOT have safety features. Once it chnages the file's name, it's done. 
+
 
 
 
