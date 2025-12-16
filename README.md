@@ -45,7 +45,8 @@ directory_path = r"C:\Users\Norman Whittlecliff\Pictures\Phone Storage\camera"  
 
 ## ! Warnings !
 
-- This script DOES NOT have safety features. Once it chnages the file's name, it's done. 
+- This script DOES NOT have safety features. Once it changes the file's name, it's done. 
+
 
 
 
