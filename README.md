@@ -6,7 +6,7 @@ COMMENT ENDS -->
 
 # Removing Text For Date Script
 
-A simple Python script that takes a given (in the script) folder path. <br>
+A simple Python script I wrote on *June 11, 2025* that takes a given (in the script) folder path. <br>
 Inside this folder, the script renames every single file in it by removing the text in front of it until it hits a number. 
 
 This script was created by me, Norman, with the intention of organizing my photos and videos by date in its name. Every media in my phone has the date in its name, but some also have stuff like the application name in front of it, like Instagram or Zangi. To unify every media in one folder and sort it by date, I created this script that stripts the front text of the name, leaving the date. 
@@ -46,6 +46,7 @@ directory_path = r"C:\Users\Norman Whittlecliff\Pictures\Phone Storage\camera"  
 ## ! Warnings !
 
 - This script DOES NOT have safety features. Once it changes the file's name, it's done. 
+
 
 
 
