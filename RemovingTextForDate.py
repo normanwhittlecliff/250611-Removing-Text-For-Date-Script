@@ -24,11 +24,12 @@ the file would be named with the date and time.
 
 # ====== USAGE ======
 # Replace this path with the folder you want to clean up
-directory_path = r"C:\Users\Norman Whittlecliff\Pictures\Phone Storage\camera"  # Example for Windows
+directory_path = r"C:\Users\Usuário\Pictures\Phone Storage\Camera"  # Example for Windows
 # directory_path = "/home/user/Pictures"  # Example for Linux/Mac
 
 
 def rename_files_by_date(root_directory):
+    print(f"Changin the files in the following folderpath:\n{root_directory}")
     filesCount = 0;
     filesChanged = 0;
 
