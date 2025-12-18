@@ -16,9 +16,9 @@ Any text that comes after the date is not modified.
 #### Example:
 
 | Before        | After |
-| ------------- |:-------------:|
+| ------------- |:-------------|
 | Camera20250611_134050.png    | 20250611_134050.png     |
-| Zangi20250611.png     | 20250611.png     |
+| Zangi20250611_Zangi.png     | 20250611_Zangi.png     |
 | Instagram20250611.png | 20250611.png     |
 | Capture354.png        | 354.png          |
 | 20250611_134050.png    | 20250611_134050.png     |
@@ -46,6 +46,7 @@ directory_path = r"C:\Users\Norman Whittlecliff\Pictures\Phone Storage\camera"  
 ## ! Warnings !
 
 - This script DOES NOT have safety features. Once it changes the file's name, it's done. 
+
 
 
 
